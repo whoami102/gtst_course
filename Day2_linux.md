@@ -1,18 +1,18 @@
-   Introduction to Linux
-Linux is a kernel.
-  $ What is kernel?
+  ## Introduction to Linux
+-Linux is a kernel.
+  ### What is kernel?
 _Kernel is a code or program that used to meet 
  your software and hardware.And allocate some  
  resources.
  
-   $ What is shall
+   ### What is shall
  _Users communicate with kernel by the shall.
  _The shall is a command line interpreter it 
    translates commanded entered by the user and 
    converts them into a language that is understood
    by kernel
 
-    $ Types of shells
+   ### Types of shells
   - SH
   - BASH
   - ZSH
@@ -20,7 +20,7 @@ _Kernel is a code or program that used to meet
   They differ in coluring command compilation some
    kind of features.
 
-    $What is operating system (os)
+   ### What is operating system (os)
  _Which means the main software part of computer
    that helped to work on.
   _It contains
@@ -30,7 +30,7 @@ _Kernel is a code or program that used to meet
       - file extension
       - window manager
  
-   $ Types of desktop environment on Linux
+   ### Types of desktop environment on Linux
        A mate
        B gnom
        C KDE plasma
@@ -44,7 +44,7 @@ _Kernel is a code or program that used to meet
   _Most hacking tools
   _Most secured
 
-     $ Linux distribution/distro
+   ### Linux distribution/distro
  _Distro is modified Linux kernels. Type of operating
    Systems with different.
       -LINUX kernel
@@ -66,7 +66,7 @@ _Kernel is a code or program that used to meet
   Best for hackers
     Kali Linux, Garuda, parrot,Black Arch
  
-      $ Windows also have distros
+   #### Windows also have distros
    A, Main os / Main boot
    B, Dual Boot / 2 in 1
    C, Cloud terminals
