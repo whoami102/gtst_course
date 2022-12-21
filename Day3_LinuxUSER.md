@@ -1,5 +1,5 @@
-      # Day3_linuxUSER.md
-    ## Overview of kali Linux
+   # Day3_linuxUSER.md
+   ## Overview of kali Linux
    ### 1 Information gathering
 - Tools for information gathering in system network host.
    _ Dimitry
@@ -97,17 +97,17 @@ _ for finding Vulnerabilities and exploits on websites.
     _ dradis start
     _ dradis stop
 
-      ### 15 Usually used applications
+     ### 15 Usually used applications
 - softwares for some basic purposes 
 
 
-       ## Folder Managers 
+     ## Folder Managers 
  1, Dolphin
  2, Thunar
  3, Nautilus
    - on windows it's not free
 
-    ## Linux Commands
+   ## Linux Commands
  - Linux system uses shall(terminal).the shall help us to communicate with the
    kernel and help to execute code.
    
