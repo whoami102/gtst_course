@@ -177,7 +177,7 @@ List information about the files
 
    ## Multiple command executions
    
-       #### And(&&)
+     #### And(&&)
 - commands you entered will be executed.if both are working without error.
 
      #### OR (||)
