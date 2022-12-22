@@ -64,7 +64,7 @@
      ✓ Gedit
      ✓ Pluma ...
  
-    ### VIM
+  ### VIM
  • a very power full
  °it have tow modes
   1, command mode - you can do commands
