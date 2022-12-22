@@ -100,5 +100,5 @@
 • the user files are stored inside /etc/passed.
 • user password are stored inside /etc/shadow
   ° When you create a user it creates a group with the name
-    #### To access root user
-    #### sudo su
+  #### To access root user
+  #### sudo su
