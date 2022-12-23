@@ -1,4 +1,4 @@
-# Advanced Linux User.
+  # Advanced Linux User.
 ## On todays class
 ###• Further on user management
 ###• Linux file ownership +Permissions
@@ -78,7 +78,7 @@ the 3 above owners
 ● Command to change permission of file
 ○ chmod <option>filename
 
-##CHMOD command
+## CHMOD command
 
 ● This command helps to change file permission.
 ● Those file permissions are read,write & execute.
@@ -90,18 +90,18 @@ the 3 above owners
 ○ chmod <parameter> filename
 ● The parameter can be in numbers and symbols
 
-A) Parameters in symbol
+## A) Parameters in symbol
 ○ chmod a+x filename -> adding execute permission for all ( chmod +x filename)
 ○ chmod u+x filename -> adding execute permission for user
 ○ chmod g+x filename -> adding execute permission for group
 ○ chmod o+x filename -> adding execute permission for other
 ○ chmod -x filename -> removing execute permission for all
 ○ chmod a+rwx , u-rw , g-x , o-xw filename -> gives rwx for all and removes something from all
-B) Parameters in Number
+## B) Parameters in Number
 ● chmod 621 filename -> 6 for user, 2 for group, 1 for other ( 6 = 4+2 ), 6 =r w
 ● chmod 777 filename -> 7 for users, 7 for group , 7 for others (7 =4+2+1), 7 = rwx
 
-##Package installation on linux
+## Package installation on linux
 
 ● ON linux to install softwares you use 
 package managers.
@@ -115,12 +115,12 @@ server to handle the installation and
 removal of software on Debian, and 
 Debian-based Linux distributions.
 
-##The repository
+## The repository
 
 This is the site/ server kali use to 
 upload the packages.
 
-##Advanced package tool / apt /
+## Advanced package tool / apt /
 
 ● Apt is a free-software user interface that work with an 
 online server to handle
@@ -136,7 +136,7 @@ distributions.used for online and offline purpose.
 ○ sudo apt upgrade 
 ○ sudo apt purge <softwarename> 
 
-##Package dependencies 
+## Package dependencies 
 
 ● A software can be built based on another program 
 called ‘modules’
@@ -145,7 +145,7 @@ to be installed successfully.
 ● Those package managers install the 
 software+dependencies
 
-##Dpkg / Debian package manager /
+## Dpkg / Debian package manager /
 
 ● Dpkg is an offline package managing 
 program.
