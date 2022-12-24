@@ -1,4 +1,4 @@
-        My name is abel,I take this note from learning geez tech security tester course.            
+                    
              Date 12/04/2015
   # 👩‍💻 Advanced Linux User.
 ## ✍️ On todays class
